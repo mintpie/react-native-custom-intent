@@ -1,0 +1,23 @@
+{
+  "name": "react-native-custom-intent",
+  "version": "1.0.0",
+  "description": "react-native custom intent",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-native module"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mintpie/react-native-custom-intent.git"
+  },
+  "keywords": [
+    "react-native",
+    "module"
+  ],
+  "author": "haeri Yu <hihen0127@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mintpie/react-native-custom-intent/issues"
+  },
+  "homepage": "https://github.com/mintpie/react-native-custom-intent#readme"
+}
