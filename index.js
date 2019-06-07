@@ -1,3 +1,3 @@
 var { NativeModules } = require('react-native');
 
-module.exports = NativeModules.RNCustomerIntent;
+export default NativeModules.AndroidIntent;
